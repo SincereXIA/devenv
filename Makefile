@@ -1,3 +1,5 @@
+include env.sh
+
 # make docker
 SHELL := /bin/bash
 ifndef TARGET
